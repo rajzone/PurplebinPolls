@@ -4,7 +4,7 @@ Building a real-time polls application with Node.js, AngularJS and MongoDB
 
 This application allows you to create polls - and enables users to vote on polls,
 with the results updating in real-time. The app accompanies the IBM developerWorks article
-[Building a real-time application with Node.js, AngularJS and MongoDB](http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/).
+[Building a real-time application with Node.js, AngularJS and MongoDB](http://www.purplebin.com).
 
 The app uses the following libraries and frameworks:
 
