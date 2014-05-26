@@ -24,3 +24,5 @@ You can see the app running live at [http://dwnodepolls.ng.bluemix.net/](http://
 
 The source code for the app is available under the MIT license, which is found in license.txt in the root
 of this repository.
+
+https://www.codeship.io/projects/eb465580-c6ae-0131-79f0-6ab4fdc9eb34/status
